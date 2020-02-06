@@ -1,0 +1,83 @@
+[33mcommit c9adb1dd2691e1b15433b90febd14f3076321839[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Wed Feb 5 06:53:16 2020 +0000
+
+    kadai-tasklist2 top page
+
+[33mcommit e995171cda855b33a69ac20768ca430359cdd4b6[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Thu Jan 30 01:42:52 2020 +0000
+
+    kadai-tasklist add bootstrap design
+
+[33mcommit e3f392c514fdf16ee9a6950016cfb9a52b223017[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Thu Jan 30 00:45:08 2020 +0000
+
+    kadai-tasklist add pagination
+
+[33mcommit cefd85ddb4bb4ccff31fe9a3b31ae4ec00ae3af9[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Mon Jan 20 14:09:30 2020 +0000
+
+    kadai-tasklist for heroku
+
+[33mcommit cd0750f4309e0585ae1e72a03087be70cb6a90c9[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Mon Jan 20 13:43:16 2020 +0000
+
+    kadai-tasklist for heroku
+
+[33mcommit c66ecd5f7437a7360a6713028f3bc1d3e3ecb70f[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Mon Jan 20 05:16:10 2020 +0000
+
+    tasklist for heroku
+
+[33mcommit 6efe5468df177582e59b80d153125bd44fa858ed[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Fri Jan 17 06:47:36 2020 +0000
+
+    kadai-tasklist-3
+
+[33mcommit 8628363fcf751d0323a32eddcac86199429738e5[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Fri Jan 17 06:35:13 2020 +0000
+
+    task-list2 add column
+
+[33mcommit 13abebfcbe94ccc8143b0aea2f3995bb4303a9e2[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Fri Jan 17 06:00:56 2020 +0000
+
+    kadai-tasklist add column
+
+[33mcommit 88ffe598fb3b4b8748565a27633c7f92592898c1[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Fri Jan 17 05:07:10 2020 +0000
+
+    kadai-tasklist.validation
+
+[33mcommit f2d46db344ca6cd65882b4a6b360ac38b4781491[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Fri Jan 17 04:52:18 2020 +0000
+
+    kadai-tasklist.DRY
+
+[33mcommit 092618d91cb1bbb85f883327f2c144362800b256[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Thu Jan 16 07:16:23 2020 +0000
+
+    kadai-tasklist
+
+[33mcommit f7e68078677af042f60ae197a59a31832c76dc1d[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Wed Jan 15 06:50:43 2020 +0000
+
+    task model
+
+[33mcommit d32883b9d35a4b669079c49eb16e738dde2f9b2b[m
+Author: yasukouchi <saladoil55@gmail.com>
+Date:   Wed Jan 15 05:59:45 2020 +0000
+
+    kadai-tasklist
